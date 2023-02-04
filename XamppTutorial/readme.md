@@ -29,6 +29,11 @@ Firstly, I'm going to launch the installer.
 ![image](https://user-images.githubusercontent.com/19222272/216757707-e01569a6-91b9-4509-8654-a5f72fceaaab.png)
 
 If the installer shows this error, just click **OK**. This is because in windows, an application installed from one user sometimes doesn't get all the permissions to operate perfectly on the system. 
+
 ![image](https://user-images.githubusercontent.com/19222272/216757918-615c916d-f979-43ab-a9a9-0de79633d863.png)
+
+After clicking OK, it will sequentially switch to this screen below. All the components should be selected by default. But if you want, you can unselect the ones you don't need.
+
+![image](https://user-images.githubusercontent.com/19222272/216758190-3f67515f-2252-4b03-964d-a47f828fda9f.png)
 
 
