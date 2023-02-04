@@ -15,6 +15,8 @@ Let's download XAMPP from [https://www.apachefriends.org/](https://www.apachefri
 </br>
 
 <img src="https://user-images.githubusercontent.com/19222272/216757300-278e3604-9ec2-48ad-ad0d-897c42dd8908.png"  alt= “” width="500px"  height="">
+</br>
+
 For my windows machine, I'm going to download the **XAMPP for Windows** 
 
 </br>
@@ -92,4 +94,4 @@ After launching all the modules required, now type **localhost** on browser and 
 </br>
 ![image](https://user-images.githubusercontent.com/19222272/216759484-56b85b2a-5e07-4b98-99d5-91e9a54b3fd5.png)
 
-
+Done. the installation is done. 
