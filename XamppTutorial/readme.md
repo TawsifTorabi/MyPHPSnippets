@@ -2,6 +2,7 @@
 
 
 
+
 # Environment Setup for DBMS using XAMPP
 
 The easiest way to learn building DBMS is making a simple webapp using PHP and MySQL which is very easy and straight forward to use.
@@ -35,5 +36,10 @@ If the installer shows this error, just click **OK**. This is because in windows
 After clicking OK, it will sequentially switch to this screen below. All the components should be selected by default. But if you want, you can unselect the ones you don't need.
 
 ![image](https://user-images.githubusercontent.com/19222272/216758190-3f67515f-2252-4b03-964d-a47f828fda9f.png)
+
+After selecting components, clicking **NEXT >**, the installer will ask you to select a folder to install XAMPP in.   
+
+![image](https://user-images.githubusercontent.com/19222272/216758603-d4f010db-bfaf-4bf4-8136-f87f736e632b.png)
+
 
 
