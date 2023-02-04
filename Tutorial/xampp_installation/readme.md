@@ -13,11 +13,14 @@ We are going to need **Apache** and **MySQL** to create a web application.
 It is a development platform by [Apache Friends.](https://www.apachefriends.org/) 
 Let's download XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/)
 </br>
-![image](https://user-images.githubusercontent.com/19222272/216757300-278e3604-9ec2-48ad-ad0d-897c42dd8908.png)
 
+<img src="https://user-images.githubusercontent.com/19222272/216757300-278e3604-9ec2-48ad-ad0d-897c42dd8908.png"  alt= “” width="500px"  height="">
 For my windows machine, I'm going to download the **XAMPP for Windows** 
+
 </br>
-![image](https://user-images.githubusercontent.com/19222272/216757484-7cbaa71d-3e87-4ef9-ac71-702811d5efbb.png)
+
+<img src="https://user-images.githubusercontent.com/19222272/216757484-7cbaa71d-3e87-4ef9-ac71-702811d5efbb.png"  alt= “” width="500px"  height="">
+
 
 
 
