@@ -1,4 +1,3 @@
-
 # Environment Setup for DBMS using XAMPP
 
 The easiest way to learn building DBMS is making a simple webapp using PHP and MySQL which is very easy and straight forward to use.
